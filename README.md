@@ -7,7 +7,7 @@ El objetivo de este wrapper es manejar toda la lógica, así como peticiones y m
 
 
 ## Tabla de contenido
-- __[Codi Wrapper](#codi\ wrapper)__
+- __[Codi Wrapper](#codi-wrapper)__
   + [Inicialización](#inicialización) 
   + [Status codi](#status-codi) 
   + [Set Password](#set-password) 
@@ -22,7 +22,7 @@ El objetivo de este wrapper es manejar toda la lógica, así como peticiones y m
   + [Resolver mensaje de cobro (consulta claves de descifrado)](#resolver-mensaje-de-cobro--consulta-claves-de-descifrado--) 
   + [Descifrar Mensaje de Cobro no presencial (Notificación Push)](#descifrar-mensaje-de-cobro-no-presencial--notificación-push--)
   + [Baja de CoDi](#baja-de-codi) 
-- **[Api Manager](#api\ manager)**
+- **[Api Manager](#api-manager)**
 - Secure Helper
 - Storage Manager
 - Push Helper
