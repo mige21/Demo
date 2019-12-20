@@ -20,7 +20,7 @@ El objetivo de este wrapper es manejar toda la lógica, así como peticiones y m
   + [Generar Mensaje de Cobro](#generar-mensaje-de-cobro) 
   + [Consulta mensaje de cobro](#consulta-mensaje-de-cobro) 
   + [Resolver mensaje de cobro (consulta claves de descifrado)](#resolver-mensaje-de-cobro-consulta-claves-de-descifrado) 
-  + [Descifrar Mensaje de Cobro no presencial (Notificación Push)](#descifrar-mensaje-de-cobro-no-presencial---notificación-push)
+  + [Descifrar Mensaje de Cobro no presencial (Notificación Push)](#descifrar-mensaje-de-cobro-no-presencial-notificación-push)
   + [Baja de CoDi](#baja-de-codi) 
 - **[Api Manager](#api-manager)**
 - Secure Helper
